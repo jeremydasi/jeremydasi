@@ -1,5 +1,5 @@
 ## Hi everyone 👋
-My name is Jérémy I am 23 years old I am a student at Epitech in MSC Pro
+My name is Jérémy I am 23 years old I am a student at Epitech in Master of Science
 
 <!--
 **jeremydasi/jeremydasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
